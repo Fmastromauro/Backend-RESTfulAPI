@@ -20,7 +20,7 @@ PATCH http://localhost:3000/subscribers/<your_id>
 Content-Type: application/json 
 
 {
-  "name": "Tommy"
+  "name": "Snoopy"
 }
 
 ###
